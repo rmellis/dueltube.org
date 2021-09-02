@@ -1,0 +1,525 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <link rel="stylesheet" href="vista-skin/styles/main.css"  webstripperwas="./vista-skin/styles/main.css" type="text/css">
+    <script type="text/javascript" src="vista-skin/scripts/main.js"  webstripperwas="./vista-skin/scripts/main.js" ></script> 
+    <title>Wiki - FloydCraft WebOS</title>
+	<meta name="description" content="Create excellent html drop down menus and web buttons with minimum effort!">  <table width="200" border="0">
+
+  </head>
+  <body>
+    <img id="body-top-bg-sitename" src="vista-skin/images/body-top-bg-sitename.png"  webstripperwas="./vista-skin/images/body-top-bg-sitename.png" alt="FCWebOS" class="center" />
+
+
+    <!-- form -->
+    
+    <table id="form" width="770">
+      
+      <tr>
+        
+        <td id="form-title-left-bg"></td>
+        <td height="63" id="form-title-center-bg" valign="top">
+
+          <!-- form title -->
+          <table width="100%">
+            <tr valign="top">
+              <td colspan="3">
+               
+               
+               <a href="#home"><img id="form-title" src="vista-skin/images/vista-form-title.gif"  webstripperwas="./vista-skin/images/vista-form-title.gif" alt="Vista-Button.com"></a>
+
+              </td>
+            </tr> 
+            <tr valign="top">
+                <td width="40" align="left"> 
+                
+                <div id="back-button"><a href="javascript:history.back();" ><img id="img-back-button2" src="vista-skin/images/vista-form-back-enabled.gif"  webstripperwas="./vista-skin/images/vista-form-back-enabled.gif" alt="back"></a></div>
+                <div id="next-button"><a href="javascript:history.forward();" ><img id="img-next-button" src="vista-skin/images/vista-form-next-enabled.gif"  webstripperwas="./vista-skin/images/vista-form-next-enabled.gif" alt="next"></a></div>
+                
+                </td>
+                <td>
+                
+                <div class="vista-form-path-box">
+                
+                  <!-- current path -->
+                  <div class="vista-form-path-left"></div>
+                  <div class="vista-form-path">
+                  
+                  <img src="vista-skin/images/icon-home.gif"  webstripperwas="./vista-skin/images/icon-home.gif" alt="">
+                  
+                  <img class="path-delimiter" src="vista-skin/images/vista-form-path-delimiter.gif"  webstripperwas="./vista-skin/images/vista-form-path-delimiter.gif" alt="">
+                  
+                  <a href="index.html"  webstripperwas="index.html" >FloydCraft WebOS</a>
+                  
+                  <img class="path-delimiter" src="vista-skin/images/vista-form-path-delimiter.gif"  webstripperwas="./vista-skin/images/vista-form-path-delimiter.gif" alt="">
+                  
+                  
+                  <a href="index.html"  webstripperwas="index.html" >Introduction</a></div>
+                  <!-- //current path -->
+                
+                </div>
+                
+                </td>
+                <td width="1">
+                
+                
+                  <a id="refresh-button" href="javascript:location.reload();" ><img src="vista-skin/images/vista-form-update.gif"  webstripperwas="./vista-skin/images/vista-form-update.gif" alt="Refresh"></a>
+                
+                
+                </td>
+            </tr> 
+          </table>
+          <!-- //form title -->
+          
+        </td>
+        <td id="form-title-right-bg"><img width="15" height="1" src="vista-skin/images/tpix.gif"  webstripperwas="./vista-skin/images/tpix.gif" alt="" /></td>
+        
+      </tr>
+      
+      <tr valign="top">
+        
+        <td id="form-top-left-bg"><img width="15" height="292" src="vista-skin/images/vista-form-top-left-bg.gif"  webstripperwas="./vista-skin/images/vista-form-top-left-bg.gif" alt="" /></td>
+        <td width="100%" height="100%">
+        
+          <table width="100%" height="100%">
+            <tr valign="top">
+              <td colspan="2" height="33"  id="vista-form-content-top-menu-bg">
+                
+                <!-- top menu --><!-- Begin Vista-Buttons.com -->
+<link href="vista-skin/styles/styles_z79tw.css"  webstripperwas="vista-skin/styles/styles_z79tw.css" type="text/css" rel="stylesheet" />
+<table id="vista-buttons.com:idgy9tw" width=0 cellpadding=0 cellspacing=0 border=0><tr>
+  <td style="padding-right:0px" title ="Introduction
+">
+<a href="index.html"  webstripperwas="index.html" target="_self" ><img id="xpi_z79tw" src="vista-skin/images/menu/btz79tw_0.gif"  webstripperwas="vista-skin/images/menu/btz79tw_0.gif" name=xpwbz79tw height="33" border=0 alt ="Vista Buttons.com" /></a></td><td style="padding-right:0px" title ="Samples    ">
+<a href="Docs/Documentation.htm"  webstripperwas="samples.html" target="_self" ><img id="xpi_379tw" src="vista-skin/images/menu/bt379tw_0.gif"  webstripperwas="vista-skin/images/menu/bt379tw_0.gif" name=xpwb379tw height="33" border=0 alt ="Samples    " /></a></td><td style="padding-right:0px" title ="Purchase     ">&nbsp;</td><td style="padding-right:0px" title ="Download     ">&nbsp;</td><td style="padding-right:0px" title ="Support     ">&nbsp;</td></tr></table>
+
+<ul id="xpwbUL_z79tw" class="xpwbULz79tw" onmouseover="xpsmover()" onmouseout="xpsmout()">
+<li><a href="features.html"  webstripperwas="features.html" title="Features"><img src="vista-skin/images/icon-info.gif"  webstripperwas="vista-skin/images/icon-info.gif" width="16" height="16" border=0>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Features</a></li>
+<li><!-- //top menu -->              </li>
+</ul></td>
+            </tr>
+            <tr valign="top">
+              <td id="vista-form-content-left-menu-bg" width="198" height="100%">
+                
+                <!-- left menu -->
+                
+                  
+                  <ul>
+                    <li></li>
+                    <li>
+                      <table width="165" border="0">
+                        <tr>
+                          <td width="140"><div class="divTable">
+                            <div class="divTableBody">
+                              <div class="divTableRow">
+                                <div class="divTableCell">&bull; <span class="select-section"><strong>Introduction</strong></span></div>
+                              </div>
+                              <div class="divTableRow">
+                                <div class="divTableCell">
+                                  <ul>
+                                    <li><a href="index.html⧣features">Features</a></li>
+                                    <li><a href="index.html⧣SimpleAPI">Simple API</a></li>
+                                    <li><a href="index.html⧣SimpleAPI">Making A Window</a></li>
+                                    <li><a href="index.html⧣Context">Making Context Menus</a></li>
+                                    <li><a href="index.html⧣EmbedWebApps">Embeding Web App's</a></li>
+                                    <li><a href="index.html#MapAppsIntoStart">Map Apps into start</a></li>
+                                    <li>CMD app Launching</li>
+                                    <li><a href="index.html⧣AppTrouble">Trouble with  first app</a></li>
+                                    <li></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div></td>
+                        </tr>
+                      </table>
+                    </li>
+                    <li>
+                      <table width="165" border="0">
+                        <tr>
+                          <td><div class="divTable">
+                            <div class="divTableBody">
+                              <div class="divTableRow">
+                                <div class="divTableCell">• <span class="select-section"><strong>Documentation</strong></span></div>
+                              </div>
+                              <div class="divTableRow">
+                                <div class="divTableCell">
+                                  <ul>
+                                    <p style="font-size:16px"><span style="font-size: 16px;"><span style="color: #000000;"><strong><span style="color: #ffffff;">&bull;<a href="Docs/system.htm">system</a></span></strong> Object</span></span></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/bootLoader.htm">bootLoader</a> <img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/current.htm">current</a> <img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/loadList.htm">loadList</a> <img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/loaded.htm">loaded</a> <img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/total.htm">total</a> <img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/error.htm">error</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/files.htm">files</a> <img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/formatAMPM.htm">formatAMPM</a>&nbsp;<img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/guid.htm">guid</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/intervals.htm">intervals</a> <img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/is.htm">is</a> <img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/mobile.htm">mobile</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/loader.htm">loader</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/registry.htm">registry</a> <img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/get.htm">get</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/set.htm">set</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/service.htm">service</a> <img src="https://i.imgur.com/pdM7Xx3.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/autostart.htm">autoStart</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">ID</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">interval</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">path</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">registerService</span> <img src="https://i.imgur.com/bBnjdg8.png" alt="Method"/><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">run</span> <img src="https://i.imgur.com/nqGJ7HS.png"/>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">unregisterService </span><img src="https://i.imgur.com/bBnjdg8.png" alt="Method"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">updateRegistry</span> <img src="https://i.imgur.com/bBnjdg8.png" alt="Method"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">updateRegistry</span> <img src="https://i.imgur.com/bBnjdg8.png" alt="Method"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/service.htm">service</a> <img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p style="font-size: 16px;"><span style="color: #000000;"><strong><span style="color: #ffffff;">&bull;<a href="Docs/explorer.htm">explorer</a></span></strong> Object</span></p>
+                                    <p></p>
+                                    <p><strong>&nbsp;•</strong><span style="color: #ff8787;">context</span> <img src="https://i.imgur.com/pdM7Xx3.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">append</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">close </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">height </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">height</span> <img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">id </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">jq</span> <img src="https://i.imgur.com/OFBGCJh.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">location </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">width </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p style="font-size: 16px;"></p>
+                                    <p></p>
+                                    <p><strong>&nbsp;•</strong><span style="color: #ff8787;">drag</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p style="font-size: 16px;"></p>
+                                    <p></p>
+                                    <p><strong>&nbsp;•</strong><span style="color: #ff8787;">file_explorer</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><strong>&nbsp;•</strong><a href="Docs/initiate.htm">initate</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p style="font-size: 16px;"></p>
+                                    <p></p>
+                                    <p><strong>&nbsp;•</strong><span style="color: #ff8787;">start</span> <img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">addLButton </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">addRButton </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">allProgramsSearch </span><img src="https://i.imgur.com/bBnjdg8.png" alt="Method"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">allProgramsToggle </span><img src="https://i.imgur.com/bBnjdg8.png" alt="Method"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">append </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">initiate </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><a href="Docs/toggle.htm">toggle</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p style="font-size: 16px;"></p>
+                                    <p></p>
+                                    <p><strong>&nbsp;•</strong><span style="color: #ff8787;">tabset</span> <img src="https://i.imgur.com/pdM7Xx3.png" alt=""/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">jq</span> <img src="https://i.imgur.com/OFBGCJh.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">tab</span> <img src="https://i.imgur.com/pdM7Xx3.png" alt=""/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">body</span><img src="https://i.imgur.com/OFBGCJh.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">disable </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">enable </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">icon </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787">id </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">is </span><img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;  &nbsp;&nbsp;▸</span><span style="color: #ff8787;">disabled </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;  &nbsp;&nbsp;▸</span><span style="color: #ff8787;">open </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;  &nbsp;&nbsp;▸</span><span style="color: #ff8787;">removed </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">open </span><img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">properties </span><img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;  &nbsp;&nbsp;▸</span><span style="color: #ff8787;">icon </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;  &nbsp;&nbsp;▸</span><span style="color: #ff8787;">title </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">remove </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">tab </span><img src="https://i.imgur.com/OFBGCJh.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">title </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">tabs </span><img src="https://i.imgur.com/VoSWN7H.png"/><strong><br>
+                                      •</strong><a href="Docs/theme.htm">theme</a> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p style="font-size: 16px;"></p>
+                                    <p></p>
+                                    <p><strong>&nbsp;•</strong><span style="color: #ff8787;">window </span><img src="https://i.imgur.com/pdM7Xx3.png" alt=""/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">body </span><img src="https://i.imgur.com/OFBGCJh.png"/><strong></strong></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">callback</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">center</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">closeWith</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">controls</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">controlsArr</span> <img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">font</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">icon</span> <img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">id</span> <img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">is</span> <img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">closed </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">maximized </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">minimized </span><img src="https://i.imgur.com/VoSWN7H.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">jq </span><img src="https://i.imgur.com/OFBGCJh.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">menuBar </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">on </span><img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">close </span><img src="https://i.imgur.com/NjoOJs2.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">toggleMax </span><img src="https://i.imgur.com/NjoOJs2.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">toggleMin <img src="https://i.imgur.com/NjoOJs2.png"/></span></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">properties </span><img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">icon <img src="https://i.imgur.com/VoSWN7H.png"/></span></p>
+                                    <p><span style="font-size: 16px">&nbsp; &nbsp;▪</span><span style="color: #ff8787;">title <img src="https://i.imgur.com/VoSWN7H.png"/></span></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">resize </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">toggleMax </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p><span style="font-size: 16px">&nbsp;&nbsp;◦</span><span style="color: #ff8787;">toggleMin </span><img src="https://i.imgur.com/nqGJ7HS.png"/></p>
+                                    <p style="font-size: 16px;"></p>
+                                    <p></p>
+                                    <p><strong>&nbsp;•</strong><span style="color: #ff8787;">window </span><img src="https://i.imgur.com/ouUc4lQ.png"/></p>
+                                    <p><span style="color: #ff8787;"> </span></p>
+                                    <p>&nbsp;</p>
+                                    <li></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div></td>
+                        </tr>
+                      </table>
+                    </li>
+                    <li>                    ______________________ </li>
+                    <li>
+                      <div style="padding-left: 10px; padding-right: 5px; font-size: 11px;">
+                        <p style="padding-bottom: 5px; font-size: 13px;" align="left">Feedback</p>
+                        <p>..This is the coolest thing I have ever seen<br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;- SSR_Stylish<br />
+                          <br />
+                          ..this looks like a proper  product you should pay for. I am amazed by the first 5 minutes I spend on it. now I will abandone my laptop for another two weeks <br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;- Hans_Wurst02<br />
+                          <br />
+                          ..with this i get a full windows like desktop on my xbox, it made it  much more productive outside of games. <br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;- rmellis. </p>
+                        <div align="left">______________________ </div>
+                      </div>
+                    </li>
+                  </ul>
+                  <ul>
+                    <li></li>
+                </ul>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                  <ul>
+                    <li>
+                      <p style="font-size:18px"><u>Screenshots:</u></p>
+                      <p style="font-size:8px">&nbsp;</p>
+                    </li>
+                  </ul>
+                <div align="center">
+                  <p><img src="https://i.imgur.com/C8Mapti.png" width="188" height="99"/>Welcome Screen</p>
+                  <p><br />
+                  </p>
+                  <p><img src="https://i.imgur.com/EgR9FcZ.png" width="188" height="248"/>The &quot;Start Menu&quot;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p><img src="https://i.imgur.com/adUGZQ6.png" width="188" height="109"/>Shared File Manager</p>
+                  <p>&nbsp;</p>
+                  <p><img src="https://i.imgur.com/NIcNFY9.png" width="188" height="116"/> Discord and eMail apps</p>
+                  <p>&nbsp;</p>
+                  <p><img src="https://i.imgur.com/y3ZEdfC.png" width="188" height="116"/>Multiple apps side by side</p>
+                  <p></p>
+                  <p></p>
+                  <p></p>
+                  <p>&nbsp;</p>
+                  <p><img src="https://i.imgur.com/ADJdKli.png" width="188" height="131"/>FloydCraft Live Map App</p>
+                </div>
+                <p align="center"><br />
+                <img src="https://i.imgur.com/DWiSRcL.png" width="188" height="130"/>Block Browser - bing.com</p>
+                <p align="center">&nbsp;</p>
+                <p align="center"><img src="https://i.imgur.com/mNcjdjR.png" width="188"/>Quake 3 game in WebGL<br />
+                </p>               
+
+                <br />
+                <br />
+
+              <!-- //left menu -->
+              </td>
+              <td width="1506" id="content" rowspan="3">
+              
+              <div id="content-box">
+              
+                <!-- content -->
+                
+                <h1 align="center">FloydCraft WebOS Wiki - Introduction</h1>
+                <p><img src="https://i.imgur.com/8cYxwyW.png" width="480" height="67"></p>
+                <p>&nbsp;</p>
+                <p align="center"><a href="Docs/Documentation.htm"><img src="https://raw.githubusercontent.com/krisdb2009/webdows-docs/master/images/docs.png" width="148" height="44"></a> <a href="http://WebOS.floydcraft.co.uk" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/krisdb2009/webdows-docs/master/images/demo.png" width="148"></a> <a href="http://cdn.floydcraft.co.uk" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/krisdb2009/webdows-docs/master/images/website.png" width="148"></a></p>
+                <hr>
+                <h2 align="center">FloydCraft WebOS is a dynamic window management API made to look like Microsoft Windows  within the browser.</h2>
+                <hr>
+                <h3><u>Map Apps into the &quot;Start Menu&quot;:</u><br>
+                </h3>
+                <div align=left>
+                  <p>To map in your first .js app you will need to ensure that it's somewhere in the root directory &quot;webdows&quot; for this demonstration we'll say our new test app is in /path/to/webdows/programs/MyApp/app.js</p>
+                  <p>&nbsp;</p>
+                  <p>to add this to the &quot;start menu&quot; open </p>
+                  <p>&quot;/path/to/webdows/webdows/config/registry.json&quot; with your favorite text editor.</p>
+                  <p>&nbsp;</p>
+                  <p>Once open you will see this:</p>
+                  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;],<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #993366;">&quot;startmenu&quot;</span>: [</p>
+                  <p>below that are the pre-set start menu items, simply import the following code maintaining the syntax:</p>
+                  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #993366;">&quot;title&quot;</span>:<span style="color: #ff0000;">&quot;My New App&quot;</span>,<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #993366;">&quot;icon&quot;</span>:<span style="color: #ff0000;">&quot;programs/MyApp/icon.ico&quot;</span>,<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #993366;">&quot;</span><span style="color: #993366;">file&quot;</span>: <span style="color: #ff0000;">&quot;programs/MyApp/app.js&quot;</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+                  <p>Once saved you should then see your new app in the &quot;Start Menu&quot;, if not you may need to reset your browsers cache. <img src="https://i.imgur.com/U6CsZB8.png"/></p>
+                  <p>&nbsp;</p>
+                  <hr>
+                  <p></p>
+                </div>
+                <h1><strong><u>Features</u></strong></h1>
+                <ul>
+                  <li>
+                    <p> Simple and easy to understand API</p>
+                  </li>
+                  <li>
+                    <p>Documented in detail</p>
+                  </li>
+                  <li>
+                    <p>Supported by  Chrome,  Edge, Safari, Firefox, and Opera.</p>
+                  </li>
+                  <li>
+                    <p>90% CSS vector design</p>
+                  </li>
+                  <li>
+                    <p>Easly customizable themes</p>
+                  </li>
+                  <li>
+                    <p>Accurate Windows like behavior.</p>
+                    <p>&nbsp;</p>
+                    <hr>
+                  </li>
+                </ul>
+                <h1><strong><u>Simple API</u></strong></h1>
+                <h3><u>Making a window:</u></h3>
+                <div>
+                  <pre><p><span style="color: #ff0000;">new</span> explorer.<span style="color: #3366ff;">window</span>() <br /> <span style="color: #993366;">.title</span>('Hello World') <br /> <span style="color: #993366;">.resize</span>(<span style="color: #3366ff;">200</span>, <span style="color: #3366ff;">200</span>) <br /> <span style="color: #993366;">.callback</span>(<span style="color: #ff0000;">function</span>() { <br />&nbsp;&nbsp;&nbsp; this.<span style="color: #3366ff;">body</span><span style="color: #993366;">.html</span>('Test 123'); <br /> });</p></pre>
+                </div>
+                <p><img src="https://i.imgur.com/42fKTvc.png"/></p>
+                <hr>
+                <p>&nbsp;</p>
+                <h3><u>Creating a context menu:</u></h3>
+                <div>
+                  <pre><p><span style="color: #ff0000;">new</span> explorer.<span style="color: #3366ff;">context</span>() <br /> <span style="color: #993366;">.append</span>([ <br /> &nbsp;&nbsp;&nbsp;{ <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3366ff;">title</span>: 'Hello' <br /> &nbsp;&nbsp;&nbsp;&nbsp;}, {}, { <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #3366ff;">title</span>: 'World', <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #993366;">callback:</span> <span style="color: #ff0000;">function</span>() { console<span style="color: #993366;">.log</span>('World Clicked'); } <br /> &nbsp;&nbsp;&nbsp;&nbsp;} <br /> ]);</p></pre>
+                </div>
+                <p><img src="https://i.imgur.com/ncKLHAm.png"/></p>
+                <hr>
+                <p>&nbsp;</p>
+                <p></p>
+                <h3><u> Embeding Web Applications:</u></h3>
+                <p><span style="color: #ff0000;">new</span> explorer.<span style="color: #3366ff;">window</span>() <br>
+                  <span style="color: #993366;">.title</span> ('FloydCraft eMail')<br>
+                  <span style="color: #993366;">.resize</span> (<span style="color: #3366ff;">640</span>, <span style="color: #3366ff;">480</span>)<br>
+                  <span style="color: #993366;">.</span><span style="color: #993366;">center</span>()<br>
+                  <span style="color: #993366;">.</span><span style="color: #993366;">callback</span>(<span style="color: #ff0000;">function</span>() {<br>
+                  <span style="color: #ff0000;">&nbsp;&nbsp;&nbsp;&nbsp;var</span> win<span style="color: #ff0000;">= this</span>;<br>
+<span style="color: #ff0000;">&nbsp;&nbsp;&nbsp;&nbsp;this</span>.body<br>
+<span style="color: #993366;">&nbsp;&nbsp;&nbsp;&nbsp;.</span><span style="color: #993366;">css</span>({'font-size':'10px'})<br>
+<span style="color: #993366;">&nbsp;&nbsp;&nbsp;&nbsp;.</span><span style="color: #993366;">html</span>(`<br>
+<span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;html</span><span style="color: #ff0000;"> xmlns</span>=<span style="color: #993366;">&quot;http://www.w3.org/1999/xhtml&quot;</span> xml:lang=<span style="color: #993366;">&quot;</span><span style="color: #993366;">en&quot;</span> <span style="color: #ff0000;">lang</span>=<span style="color: #993366;">&quot;</span><span style="color: #993366;">en&quot;</span>&gt;<br>
+<span style="color: #3366ff;">&lt;</span><span style="color: #3366ff;">head&gt;</span><br>
+<span style="color: #3366ff;">&lt;</span><span style="color: #3366ff;">style&gt;</span><br>
+*       {margin:0;padding:0;}<br>
+html, <br>
+body    {height:100%;  width:100%; overflow:hidden;}<br>
+table   {height:100%;  width:100%; table-layout:static; border-collapse:collapse;}<br>
+iframe  {float:left; height:100%; width:100%;}<br>
+.header {border-bottom:1px solid #000}<br>
+.content {height:100%;}<br>
+<span style="color: #3366ff;">&lt;/style&gt;</span><br>
+<span style="color: #3366ff;">&lt;/head&gt;</span><br>
+<span style="color: #3366ff;">&lt;body&gt;</span></p>
+                <p><span style="color: #3366ff;">&lt;table&gt;</span><br>
+                  <span style="color: #3366ff;"> &nbsp;&nbsp;&lt;tr&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td</span><span style="color: #ff0000;"> class</span>=<span style="color: #993366;">&quot;header&quot;</span><span style="color: #3366ff;">&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #3366ff;">h4&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #3366ff;">a</span><br>
+                  <span style="color: #ff0000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;href</span>=<span style="color: #993366;">&quot;#&quot;</span><span style="color: #3366ff;">&gt;</span><br>
+                  <span style="color: #3366ff;"><span style="color: #ff0000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&lt;</span><span style="color: #3366ff;">/a&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #3366ff;">/h4&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #3366ff;">/td&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&lt;/tr&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&lt;tr&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #3366ff;">td</span> <span style="color: #ff0000;">class</span>=<span style="color: #993366;">&quot;content&quot;</span><span style="color: #3366ff;">&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;iframe src</span>=&quot;<span style="color: #993366;">http://discord.floydcraft.co.uk/</span>&quot;<span style="color: #ff0000;">frameborder</span>=<span style="color: #993366;">&quot;0&quot;</span><span style="color: #3366ff;">&gt;&lt;/iframe&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&nbsp;&nbsp;&lt;</span><span style="color: #3366ff;">/td&gt;</span><br>
+                  <span style="color: #3366ff;">&nbsp;&nbsp;&lt;</span><span style="color: #3366ff;">/tr&gt;</span><br>
+                <span style="color: #3366ff;">&lt;</span><span style="color: #3366ff;">/table&gt;</span></p>
+                <p><span style="color: #3366ff;">&lt;/body&gt;</span><br>
+                  <span style="color: #3366ff;">&lt;</span><span style="color: #3366ff;">/html&gt;</span><br>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`);<br>
+                });</p>
+                <p><img src="https://i.imgur.com/EUd0cg6.png" width="491" height="420"/></p>
+                <p>&nbsp;</p>
+                <hr>
+                <div align=left>
+                  <h1></h1>
+                  <h3><u>Launching an app with no registry entry</u></h3>
+                  <p>If you've already created an app and simply want to run it for debugging within FCWebOS before mapping it into the registry you can do so using the built in &quot;Command Prompt&quot;.</p>
+                  <p>Simply open the Command Prompt and enter:</p>
+                  <p>start programs/MyAppPath/MyApp.js</p>
+                  <h3><img src="https://i.imgur.com/Y0ObTTg.gif" width="481" height="250"/></h3>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <hr>
+                  <p></p>
+                  <p></p>
+                  <p></p>
+                  <p></p>
+                  <h3>&nbsp;</h3>
+                  <h3><u>If you have trouble with your first app:</u></h3>
+                  <p>If you've tried to create your first app using the above code but can't seem to get it working, try copy and paste a pre-existing application and edit it from there.</p>
+                  <p>For example if you just want to embed a web app into it's own window try copy &quot;programs/Discord&quot; to &quot;programs/MyApp&quot; and edit from there</p>
+                  <p><img src="https://i.imgur.com/lzbbvxl.gif" width="479" height="257"/></p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <hr>
+                  <p></p>
+                  <p><br>
+                  </p>
+                  <div align=right></div>
+                </div>
+                <h3>
+                  <!-- Begin Vista-Buttons.com --><br>
+                </h3>         
+                <!-- //content -->
+              
+              </div>
+                
+              </td>
+            </tr>
+            
+              <tr valign="top" style="background-color:rgb(60,118,163);"><td height="1"><img width="200" height="1" src="vista-skin/images/tpix.gif"  webstripperwas="./vista-skin/images/tpix.gif" alt="" /></td></tr>
+              <tr valign="bottom">
+                  <td height="10" id="copyright-box">
+                    
+                    <!-- copyright -->
+                    <div id="copyright">
+                    
+                    
+                    Copyright (c) 2020,<br/>
+                    FloydCraft</div>
+                    <!-- //copyright -->
+                  </td>
+              </tr>
+            
+          </table>
+          
+        </td>
+        <td id="form-top-right-bg"><img width="14" height="292" src="vista-skin/images/vista-form-top-right-bg.gif"  webstripperwas="./vista-skin/images/vista-form-top-right-bg.gif" alt="" /></td>
+        
+      </tr>  
+      
+      <tr>
+        
+        <td id="form-bottom-left-bg"></td>
+                <td height="63" id="form-bottom-center-bg">
+        
+        <style>#more-l{position:absolute; margin:-60px 0 0 220px; font-size: 10px;color: #707070;}#more-l a{text-decoration: none;font-size: 10px;color: #707070;text-align: right;}</style>
+        <!--[if IE]><style>#more-l{position:absolute; margin-top:-30px;}</style><![endif]-->
+        
+        <div id="more-l">
+            <a href="http://cdn.floydcraft.co.uk/" target="_blank">FloydCraft Main Site</a> | <a href="http://forum.floydcraft.co.uk/" target="_blank">FloydCraft Forum</a> | <a href="http://m.floydcraft.co.uk/" target="_blank" >FloydCraft eMail</a> | <a href="http://discord.floydcraft.co.uk/" target="_blank">FloydCraft Discord</a> | <a href="http://playfc.floydcraft.co.uk/" target="_blank">FloydCraft Join Info</a> 
+			&nbsp;&nbsp;<br />
+        </div> 
+        
+        </td>
+        <td id="form-bottom-right-bg"></td>
+        
+      </tr>
+      
+  </table>
+    
+    <!-- //form -->
+    
+  </body>
+</html>

@@ -1,0 +1,459 @@
+/*******************************************************        
+
+                  Vista-Buttons.com
+                     image-border- styles -
+                      - main -        
+                      
+********************************************************/
+
+* {
+ margin:0;
+ padding:0;
+}
+/* DivTable.com */
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 1px solid #FFFF;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
+table {
+ border-collapse:collapse;
+}
+table2 {
+  border-collapse: collapse;
+}
+
+table2, th2, td2 {
+  border: 1px solid white;
+}
+a img {
+ border:0;
+}
+
+body {
+ background-color:rgb(81,120,247);
+ background-image:url('../images/body-top-bg.jpg');
+ background-repeat:repeat-x;
+ /* font */
+ font-family:'Trebuchet MS', 'Arial';
+ font-size:12px;
+}
+
+
+/*** user styles ********/
+
+#body-top-bg-sitename {
+ position:absolute;
+ top:30px;
+ left:6%;
+ z-index:10;
+ filter: alpha(style=0,opacity=60);
+  -moz-opacity:.60;
+}
+
+table#form {
+ margin: 77px auto;
+}
+
+#form-title-center-bg {
+ background-color:rgb(21,78,139);
+ background-image:url('../images/vista-form-title-center-bg.jpg');
+ background-repeat:no-repeat;
+}
+
+#form-title-left-bg {
+ background-color:transparent;
+ background-image:url('../images/vista-form-title-left-bg.gif');
+ background-repeat:no-repeat;
+}
+
+#form-title-right-bg {
+ background-color:transparent;
+ background-image:url('../images/vista-form-title-right-bg.gif');
+ background-repeat:no-repeat;
+}
+
+#form-top-left-bg {
+ background-image:url('../images/vista-form-top-left-bg-unlimit.gif');
+ background-repeat:repeat-y;
+}
+
+#form-top-right-bg {
+ background-image:url('../images/vista-form-top-right-bg-unlimit.gif');
+ background-repeat:repeat-y;
+}
+
+#form-bottom-left-bg {
+ background-image:url('../images/vista-form-bottom-left-bg.gif');
+ background-repeat:no-repeat;
+}
+
+#form-bottom-center-bg {
+ background-image:url('../images/vista-form-bottom-center-bg.gif');
+ background-repeat:repeat-x;
+}
+
+#form-bottom-right-bg {
+ background-image:url('../images/vista-form-bottom-right-bg.gif');
+ background-repeat:no-repeat;
+}
+
+#vista-form-content-top-menu-bg {
+ height:33px;
+ background-image:url('../images/vista-form-content-top-menu-bg.gif');
+ background-repeat:repeat-x;
+}
+
+#vista-form-content-top-menu-bg table{
+ position:absolute;
+ z-index:2;
+}
+
+#vista-form-content-left-menu-bg {
+ background-color:rgb(60,118,163);
+ padding-top:10px;
+ /* font */
+ font-family:'Trebuchet MS', 'Arial';
+ font-size:13px;
+ color:#fff;
+}
+
+#copyright-box {
+ background-color:rgb(60,118,163);
+ background-image:url('../images/vista-form-content-left-menu-bg.jpg');
+ background-repeat:no-repeat;
+ background-position:bottom;
+ height:314px;
+ /* font */
+ font-size:10px;
+ color:#fff;
+}
+
+#vista-form-content-left-menu-bg ul {
+  list-style:none;
+  margin-left:20px;
+  margin-right:10px;
+  margin-top:10px;
+}
+
+#vista-form-content-left-menu-bg ul ul {
+  margin-left:0px;
+}
+
+#vista-form-content-left-menu-bg ul li {
+  margin-top:10px;
+}
+
+#vista-form-content-left-menu-bg ul li li {
+  margin-top:1px;
+}
+
+#copyright-box a, #vista-form-content-left-menu-bg a {
+  color:#efefef;
+  text-decoration:none;
+}
+
+#copyright-box a:hover, #vista-form-content-left-menu-bg a:hover {
+  color:#fff;
+}
+
+#vista-form-content-left-menu-bg li.select-section {
+  position:relative;
+  left:-10px;
+  font-weight:bold;
+  background-image:url('../images/left-menu-pointer.gif');
+  background-repeat:no-repeat;
+  background-position:0px 2px;
+  padding-left:10px;
+}
+
+#icon-help {
+ position:absolute;
+ margin-top:10px;
+ z-index:2;
+ margin-left:714px;
+}
+
+#form-title {
+ margin-top:5px;
+}
+
+#back-button {
+ position:absolute;
+ z-index:2;
+ margin-left:9px;
+}
+
+#next-button {
+ position:absolute;
+ z-index:3;
+ margin-left:37px;
+}
+
+.vista-form-path-box {
+ position:relative;
+ top:1px;
+ left:34px;
+}
+
+.vista-form-path-left {
+ background-color:#eee;
+ background-image:url('../images/vista-form-path-left.gif');
+ background-repeat:no-repeat;
+ height:24px;
+ width:3px;
+ float:left;
+}
+
+.vista-form-path {
+ background-color:transparent;
+ background-image:url('../images/vista-form-path.gif');
+ background-repeat:repeat-x;
+ height:24px;
+ width:640px;
+}
+
+.vista-form-path img {
+ margin-top:3px;
+ margin-left:3px;
+}
+
+.vista-form-path img.path-delimiter {
+ margin:0px 5px 4px 5px;
+}
+
+.vista-form-path a {
+ position:relative;
+ bottom:4px;
+ /* font */
+ text-decoration:none;
+ color:#222;
+}
+
+.vista-form-path a:hover {
+ /* font */
+ color:#000;
+}
+
+
+#refresh-button {
+ /*
+ position:relative;
+ top:1px;
+ left:2px;*/
+ position:absolute;
+ margin-left:-25px;
+ margin-top:1px;
+}
+
+#copyright {
+ font-size:11px;
+ margin:20px;
+ margin-top:0px;
+}
+
+h1 {
+ border:0;
+ padding: 16px 0px 10px 0px;
+ font-weight:normal;
+ font-size:22px;
+ color:#111;
+}
+
+
+ol {
+  margin-top: 5px;
+	list-style: 1;
+  padding: 3px;
+  margin-left: 0;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  }
+
+.help{ padding-bottom: 10px;
+}
+.help_small{ padding-bottom: 5px;
+}
+
+#content {
+ background-color:#fff;
+ padding-bottom:5px;
+ text-align:justify; 
+}
+
+#content-box {
+ margin-left:30px;
+ width:480px;
+}
+
+#content-box .description {
+ text-align:justify;
+ line-height:18px;
+}
+
+#content-box .description p {
+ text-align:justify;
+ text-indent: 0px;
+}
+
+.features {
+ font-size:13px;
+ font-weight: bold;
+ color:#265893;
+}
+
+#production-table {
+ margin-top:20px;
+}
+
+#production-table td {
+ text-align:center;
+ width:70px;
+}
+
+#production-table td {
+ text-align:center;
+ font-size:11px;
+}
+
+#production-table td a {
+ text-decoration:none;
+ color:#222;
+}
+
+#production-table td a:hover {
+ color:#000;
+}
+
+.content-line {
+ height:1px;
+ border-bottom:1px solid #ddd;
+ /*background-color:#ddd;*/
+ margin:20px 0px 20px 0px;
+ text-align:justify;
+}
+
+.screenshots-table td {
+ text-align:center;
+  font-size:13px;
+  text-decoration:none;
+}
+
+.image-border {
+ background-color:#eee;
+ background-image:url('../images/image-border.gif');
+ background-repeat:no-repeat;
+ width:210px;
+ height:141px;
+ padding: 0px;
+}
+
+.image-border img {
+ border:1px solid #aaa;
+ padding:4px;
+}
+
+.image-border a:hover img {
+ border:1px solid #555;
+}
+
+.screenshots-table a {
+ color:#222;
+ font-size:11px;
+ text-decoration:none;
+}
+
+.screenshots-table a:hover {
+ color:#000;
+}
+A.sampleLink       {font-family: Trebuchet MS, Tahoma, Arial, Helvetica; font-size: 11px; color: #AA0000; font-weight: normal; text-decoration: underline;text-align: center;padding-left: 20px;}
+A.sampleLink:hover {text-decoration: none;}
+
+.samples {
+font-size: 13px;
+font-weight: bold;
+color: #2D52C7;
+margin-top: 40px;
+margin-left: -40px;
+
+}
+
+/**------buy_download-----------------*/
+
+a.download-link {
+  font-family: verdana,sans-serif;
+  font-size: 12px;
+  text-decoration: none;
+	color: #1B735B;
+	display: block;
+}
+a.download-link strong {
+	/* Download box home product / firefox */
+	font-size: 130% !important;
+	
+}
+a.download-link:hover {
+	
+}
+a.download-link strong {
+	color: #1B735B;
+	line-height: 1.2;
+}
+a.download-link em {
+	display: block;
+	font-size: 80%;
+	font-style: normal;
+}
+
+/*------------------*/
+
+
+
+.copyr {
+  font-size: 11px;
+  color: #505050;
+}
+
+.copyr a{
+  text-decoration: none
+  font-size: 11px;
+  color: #505050;
+  text-align: center;
+}
+
+.copyr a:link          {color: #505050; text-decoration: none}
+.copyr a:visited       {color: #505050; text-decoration: none}
+.copyr a:hover         {color: #000000; text-decoration: underline}
+
+
+.featureTd    {font-family: Trebuchet MS, Arial; font-size: 11px; color: #000000; padding: 5px; line-height: 14px;
+               border-left: solid 3px #CCCCCC; border-right: solid 3px #CCCCCC; border-top: solid 1px #CCCCCC; background-color: #F8F8F8;}
+.featureTd2   {font-family: Trebuchet MS, Arial; font-size: 11px; color: #0064AD; line-height: 15px;
+               border-left: solid 1px #CCCCCC; border-top: solid 1px #CCCCCC;padding: 5px;}
+
+A.featureLink       {font-family: Trebuchet MS, Tahoma, Arial, Helvetica; font-size: 11px; color: #0064AD; font-weight: normal; text-decoration: underline;}
+A.featureLink:hover {text-decoration: none;}
