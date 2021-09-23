@@ -1,0 +1,95 @@
+.img{max-width:100%;}
+
+.container {
+  width:100%;
+  max-width:540px
+}
+
+.imagePlaceholder {
+  
+  width:100%;
+  max-width:540px;
+}
+
+.popout {
+
+  position: absolute;
+  z-index: 1;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.91);
+  text-align: center;
+  display: table;
+  border: none;
+ }
+
+.popout a {
+  display:table-cell;
+  vertical-align:middle;
+  
+}
+
+
+        #oCarol {
+            
+            width: 100%;
+            height: 75px
+        }
+        .button a {
+            font-weight: bold;
+            color: #FFF;
+            display: block;
+            text-decoration: none;
+            outline: none;
+            background: #54ABED;
+            line-height: 75px;
+            margin: 0;
+            padding: 0;
+            cursor: pointer;
+        }
+        .button a.disabled{background:#54ABED;}
+        .button a:hover {
+            background: #DB4B5A
+        }
+        .button {
+            text-align: center;
+            float: left;
+            width: 20px;
+        }
+        .panel {
+            margin: 0;
+            overflow: hidden;
+            position: relative;
+            float: left;
+            width: 500px;
+            height: 200px
+        }
+        .panel-inner {
+            left: 0;
+            position: absolute;
+            height: 50px;
+            list-style: none;
+            margin: 0;
+            padding: 0
+        }
+        .panel-inner li {
+            text-align: center;
+            padding: 0;
+            margin: 0;
+            float: left;
+            width: 100px;
+            background: #FFF;
+            line-height: 50px;
+        }
+
+       
+
+@media screen and (max-width: 480px) {
+    
+  
+  
+}

@@ -1,0 +1,50 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+
+var RecaptchaState = {
+    site : '6LcV18ESAAAAAI1Z5NnSAUBz4pTj3hYJQ_6NLgFN',
+    rtl : false,
+    challenge : '03AHJ_VuvsHUyIqWrvzC7XN6iVE7fcQiY1RnZ3g-ne3-QLKp-7RarDIr4rM-d8V_spll_RawBIeotTl-hKv9Io6mJwbZiAT1TY1PpEKbTJClF-ImfQ4YeCzoua4t-IXmF5RzIj8-gS2R-k1CM2JyqZsH2CucgrXdf_eDUrf7xBcw8OWXuPgut--0M',
+    is_incorrect : false,
+    programming_error : '',
+    error_message : '',
+    server : 'https://web.archive.org/web/20131229010113/http://www.google.com/recaptcha/api/',
+    lang : 'en-US',
+    timeout : 1800
+};
+
+document.write('<scr'+'ipt type="text/javascript" s'+'rc="' + RecaptchaState.server + 'js/recaptcha.js"></scr'+'ipt>');
+
+
+}
+/*
+     FILE ARCHIVED ON 01:01:13 Dec 29, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:31:39 Sep 20, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 54.739
+  captures_list: 151.307
+  esindex: 0.014
+  exclusion.robots.policy: 0.178
+  exclusion.robots: 0.191
+  LoadShardBlock: 36.587 (3)
+  PetaboxLoader3.datanode: 49.947 (4)
+  RedisCDXSource: 0.931
+  CDXLines.iter: 26.059 (3)
+  PetaboxLoader3.resolve: 36.65
+*/

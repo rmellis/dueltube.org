@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  height: 100%;
+  padding: 0px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.reveal {
+  margin: 0 20px;
+  overflow: hidden;
+}
+
+.reveal__content {
+  transform: translateY(100%);
+  animation: reveal 0.4s cubic-bezier(1, 0, 0.3, 0.9) forwards;
+}
+
+.reveal:nth-child(2) .reveal__content {
+  animation-delay: 0.2s;
+}
+.reveal:nth-child(3) .reveal__content {
+  animation-delay: 0.4s;
+}
+
+@keyframes reveal {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}

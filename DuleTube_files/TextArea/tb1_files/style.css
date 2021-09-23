@@ -1,0 +1,146 @@
+/*
+* Author: Antonio Lopez Hernandez
+* Website: https://asche.co.uk
+* Name: Wordpress Fancybox
+* Description: This is for styling and animating a div for a fancy styling, ideally in a hero (as of yet it does not change size according to width). Wobble effect best seen on chrome.
+*/
+
+.wppw-fancy * {transition:all 0.3s;}
+
+/* Change margins for location of fancybox */
+.wppw-apply-margins {margin:20px;}
+
+/* Font Choices */
+  .wppw-font {font-family: 'Roboto Slab', serif;}
+
+/* Color Schemes */
+  .wppw-background-color {background-color:#DA4454;}
+  .wppw-title-font-color {color: #DA4454;}
+  .wppw-title-font-color:hover {color: #660000;}
+  .wppw-text-font-color {color: #999;}
+  .wppw-link-font-color {color:#FFF;}
+  .wppw-link-font-color:hover {color:#660000;}
+
+/* Shadow Styles */
+  .wppw-shadow {box-shadow:0 0 5px #777;}
+
+/* Fancybox stylings */
+  /* Move the box around */
+  .wppw-fancy {float:left;height:320px;width:320px;overflow:hidden;box-sizing: content-box !important;}
+  /* Strongly advised not to change these */
+  .wppw-underlay {z-index:0;position:absolute;height:310px;width:310px;margin:3px 0 0 0;box-sizing: content-box !important;}
+  .wppw-fancybox-margins {position:absolute;margin:-10px -9px;box-sizing: content-box !important;width: 340px;height: 340px;overflow: hidden;}
+  .wppw-fancybox {position:absolute;line-height:90%;height:425px;width:450px;margin-top:-60px;margin-left:-93px;padding:20px 40px;overflow:hidden;box-sizing: content-box !important;}
+
+/*Makes it skewed */
+  .wppw-skew {
+      -webkit-transform: skew(45deg,0deg);
+      -moz-transform: skew(45deg,00deg);
+      -ms-transform: skew(45deg,00deg);
+      -o-transform: skew(45deg,00deg);
+      transform: skew(45deg,0deg);
+  }
+  .wppw-info.wppw-skew {
+      -webkit-transform: skew(-45deg,0deg);
+      -webkit-transform: skew(-45deg,0deg);
+      -ms-transform: skew(-45deg,00deg);
+      -o-transform: skew(-45deg,0deg);
+      transform: skew(-45deg,0deg);
+  }
+
+/* Text */
+  .wppw-h2 {font-size: 22px;font-weight: bold;}
+  .wppw-p {font-size:14px;}
+  .wppw-justify {text-align:justify;}
+  .wppw-info {z-index:1;position:absolute;margin:45px 65px;padding:20px 40px;height:279px;width:240px;background-color:#FFF;box-sizing: content-box !important;}
+  .wppw-link {margin-left:65px;position: absolute;bottom: 30px;}
+  .wppw-title-link {text-decoration:none;}
+  .wppw-read-more {border-radius:0.25em;text-decoration:none;font-size:14px;font-weight:bold;padding:7px 15px;}
+
+  .wppw-wrap {break-word:word-break;}
+  .wppw-image {float: left; padding:4px 10px 4px 0;height:100px;width:100px;}
+  .image-placeholder {background-color:#EEE;box-shadow:0 0 10px #999 inset;text-shadow:0 0 5px #777;color:#FFF;text-align:center;line-height:95px;height:100px;width:100px;}
+
+/* Fully Compatible Animation */
+  /* Text Swish */
+  @-webkit-keyframes swish {
+    0%{-webkit-transform:translate(500px,500px);opacity:0;}
+  }
+  @-moz-keyframes swish {
+    0%{-moz-transform:translate(500px,500px);opacity:0;}
+  }
+  @-ms-keyframes swish {
+    0%{-ms-transform:translate(500px,500px);opacity:0;}
+  }
+  @-o-keyframes swish {
+    0%{-o-transform:translate(500px,500px);opacity:0;}
+  }
+  @keyframes swish {
+    0%{transform:translate(500px,500px);opacity:0;}
+  }
+  .wppw-swish {
+      -webkit-animation: swish 0.3s linear;
+      -moz-animation: swish 0.3s linear;
+      -ms-animation: swish 0.3s linear;
+      -o-animation: swish 0.3s linear;
+      animation: swish 0.3s linear;
+  }
+
+  /* On hover wobble */
+  @-webkit-keyframes wobble {
+    0%{transform:scale(1,1);}
+    50%{transform:scale(1.03,1.03);}
+  }
+  @-moz-keyframes wobble {
+    0%{transform:scale(1,1);}
+    50%{transform:scale(1.03,1.03);}
+  }
+  @-ms-keyframes wobble {
+    0%{transform:scale(1,1);}
+    50%{transform:scale(1.03,1.03);}
+  }
+  @keyframes wobble {
+    0%{transform:scale(1,1);}
+    50%{transform:scale(1.03,1.03);}
+  }
+  .wppw-wobble:hover {
+    -webkit-animation: wobble 0.4s linear;
+    -moz-animation: wobble 0.4s linear;
+    -ms-animation: wobble 0.4s linear;
+    animation: wobble 0.4s linear;
+  }
+  @-webkit-keyframes wobble-inverse {
+    0%{transform:scale(1,1);}
+    50%{transform:scale(0.97,0.97);}
+  }
+  @-moz-keyframes wobble-inverse {
+    0%{transform:scale(1,1);}
+    50%{transform:scale(0.97,0.97);}
+  }
+  @-ms-keyframes wobble-inverse {
+    0%{transform:scale(1,1);}
+    50%{transform:scale(0.97,0.97);}
+  }
+  @keyframes wobble-inverse {
+    0%{transform:scale(1,1);}
+    50%{transform:scale(0.97,0.97);}
+  }
+  .wppw-wobble-inverse:hover {
+    -webkit-animation: wobble-inverse 0.4s linear;
+    -moz-animation: wobble-inverse 0.4s linear;
+    -ms-animation: wobble-inverse 0.4s linear;
+    animation: wobble-inverse 0.4s linear;
+	line-height: 80%;
+  }
+
+
+/*
+* Javascript changes to be made by user
+* Styles for that area
+*/
+.change-color-scheme {margin:50px;float:left;height:340px;width:400px;}
+.selection-div {margin:20px 0 0 15px;padding:10px;float:left;width:350px;background-color:#FFF;}
+.background-color {height:120px;}
+.p-text {height:120px;}
+.form-field {float:left;padding-top:15px;width:50%;}
+.form-field.full-width {width:100%;}

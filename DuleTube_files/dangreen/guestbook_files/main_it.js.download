@@ -1,0 +1,42 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+(function(){var c=document,d="length",e=" utilizzando Google Traduttore?",h=".",k="Disattiva per: ",l="Disattiva traduzione di ",m="Google ha tradotto automaticamente questa pagina in: ",n="Powered by ",p="Tradotta in: ",q="Traduci tutto in ",r="Tradurre questa pagina in ",s="Visualizza questa pagina in: ",t="var ",u=this;function w(a,v){var f=a.split(h),b=u;!(f[0]in b)&&b.execScript&&b.execScript(t+f[0]);for(var g;f[d]&&(g=f.shift());)!f[d]&&void 0!==v?b[g]=v:b=b[g]?b[g]:b[g]={}}Math.random();var x={"0":"Traduci",1:"Annulla",2:"Chiudi",3:function(a){return m+a},4:function(a){return p+a},5:"Errore. Impossibile completare la richiesta nel server. Riprova pi\u00f9 tardi.",6:"Ulteriori informazioni",7:function(a){return n+a},8:"Traduttore",9:"Traduzione in corso",10:function(a){return r+(a+e)},11:function(a){return s+a},12:"Mostra originale",13:"I contenuti di questo file locale saranno inviati a Google per essere tradotti utilizzando una connessione protetta.",14:"I contenuti di questa pagina sicura saranno inviati a Google per essere tradotti utilizzando una connessione protetta.",
+15:"I contenuti di questa pagina intranet saranno inviati a Google per essere tradotti utilizzando una connessione protetta.",16:"Seleziona lingua",17:function(a){return l+a},18:function(a){return k+a},19:"Nascondi sempre",20:"Testo originale:",21:"Contribuisci a una traduzione migliore",22:"Contribuisci",23:"Traduci tutto",24:"Ripristina tutto",25:"Annulla tutto",26:"Traduci le sezioni nella mia lingua",27:function(a){return q+a},28:"Mostra lingue originali",29:"Opzioni",30:"Disattiva la traduzione per questo sito",
+31:null,32:"Mostra traduzioni alternative",33:"Fai clic sulle parole riportate sopra per ottenere traduzioni alternative",34:"Utilizza",35:"Trascina tenendo premuto MAIUSC per riordinare.",36:"Fai clic per visualizzare le traduzioni alternative",37:"Tieni premuto il tasto MAIUSC, fai clic e trascina le parole riportate sopra per riordinarle.",38:"Grazie per aver contribuito a Google Traduttore con la traduzione che hai suggerito.",39:"Gestisci la traduzione per questo sito",40:"Fai clic su una parola per visualizzare le traduzioni alternative oppure fai doppio clic per apportare direttamente le modifiche",
+41:"Testo originale",42:"Traduttore",43:"Traduci",44:"La correzione \u00e8 stata inviata."};var y=window.google&&google.translate&&google.translate._const;
+if(y){var z;a:{for(var A=[],B=["13,0.001,20130330"],C=0;C<B[d];++C){var D=B[C].split(","),E=D[0];if(E){var F=Number(D[1]);if(F&&!(0.1<F||0>F)){var G=Number(D[2]),H=new Date,I=1E4*H.getFullYear()+100*(H.getMonth()+1)+H.getDate();G&&!(G<I)&&A.push({version:E,a:F,b:G})}}}for(var J=0,K=window.location.href.match(/google\.translate\.element\.random=([\d\.]+)/),L=Number(K&&K[1])||Math.random(),C=0;C<A[d];++C){var M=A[C],J=J+M.a;if(1<=J)break;if(L<J){z=M.version;break a}}z="10"}var N="/translate_static/js/element/%s/element_main.js".replace("%s",
+z);if("0"==z){var O=" translate_static js element %s element_main.js".split(" ");O[O[d]-1]="main_it.js";N=O.join("/").replace("%s",z)}var P=("https:"==window.location.protocol?"https://":"http://")+y._pah+N,Q=c.createElement("script");Q.type="text/javascript";Q.charset="UTF-8";Q.src=P;var R=c.getElementsByTagName("head")[0];R||(R=c.body.parentNode.appendChild(c.createElement("head")));R.appendChild(Q);w("google.translate.m",x);w("google.translate.v",z)};})()
+
+
+}
+/*
+     FILE ARCHIVED ON 14:27:18 Apr 20, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:32:01 Sep 20, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 95.818
+  captures_list: 334.34
+  esindex: 0.017
+  exclusion.robots: 0.256
+  exclusion.robots.policy: 0.241
+  LoadShardBlock: 296.123 (3)
+  PetaboxLoader3.resolve: 292.779 (3)
+  RedisCDXSource: 5.11
+  CDXLines.iter: 23.191 (3)
+  PetaboxLoader3.datanode: 71.038 (4)
+*/
